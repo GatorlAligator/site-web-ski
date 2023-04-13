@@ -19,7 +19,7 @@ body {
   }
 
   .parallax-1 {
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("images/ski1.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("ski1.jpg");
     min-height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -29,7 +29,7 @@ body {
   }
 
   .parallax-2 {
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("images/ski2.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("ski2.jpg");
     min-height: 100%;
     background-attachment: fixed;
     background-position: center;
